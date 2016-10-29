@@ -25,6 +25,5 @@
 		"psr-0": {
 			"Vinelab\\Http": "src/"
 		}
-	},
-	"minimum-stability": "dev"
+	}
 }
