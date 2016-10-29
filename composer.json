@@ -26,5 +26,5 @@
 			"Vinelab\\Http": "src/"
 		}
 	},
-	"minimum-stability": "stable"
+	"minimum-stability": "dev"
 }
