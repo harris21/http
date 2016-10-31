@@ -1,5 +1,5 @@
 {
-	"name": "vinelab/http",
+	"name": "harris21/http",
 	"description": "An http library developed for the laravel framework. aliases itself as HttpClient",
 	"license": "MIT",
 	"keywords": ["laravel", "http", "client", "json", "xml", "api", "curl"],
